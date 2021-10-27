@@ -1,0 +1,18 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "description": "// INSTALACION DE PAQUETES\r - npm init -y\r - npm i express --save\r - npm i mysql",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.14"
+  }
+}
