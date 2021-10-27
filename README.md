@@ -1,2 +1,1 @@
-npm i 
-npm start
+API Rest with Nodejs and Express. Database: MySQL
