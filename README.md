@@ -1,4 +1,4 @@
-API Rest with Nodejs and Express. Database: MySQL
+API Rest with Nodejs and Express, database MySQL
 
 
 
